@@ -1,4 +1,10 @@
-#!/usr/bin/env python
+#! /usr/bin/env python
 
-Print ('hello print')
+print('hello world')
+
+x=5
+y=2
+
+print (x/y)
+
 
